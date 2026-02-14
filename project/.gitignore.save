@@ -1,0 +1,4 @@
+*.safetensors
+FINAL_AI_DETECTOR*
+project/FINAL_AI_DETECTOR*
+

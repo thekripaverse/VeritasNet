@@ -1,0 +1,6 @@
+*.safetensors
+*.bin
+*.pt
+FINAL_AI_DETECTOR*
+wandb/
+__pycache__/
